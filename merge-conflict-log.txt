@@ -1,0 +1,105 @@
+commit 34605426fd019118dd148adf483baa01a05fe9aa
+Merge: 88fe06b 8170294
+Author: Hang Bao <baohang873@gmail.com>
+Date:   Wed Feb 5 21:06:51 2025 -0800
+
+    conflict
+
+commit 8170294bb10031b0675500fac766833f2037b880
+Author: Hang Bao <baohang873@gmail.com>
+Date:   Wed Feb 5 21:06:03 2025 -0800
+
+    conflict
+
+commit 88fe06b7d6475d5f8296c783a844240ee0c3b7c9
+Author: Hang Bao <baohang873@gmail.com>
+Date:   Wed Feb 5 21:05:09 2025 -0800
+
+    conflict
+
+commit 6afd7d69d6ccd556daa744f818079c652fef078a
+Author: Hang Bao <baohang873@gmail.com>
+Date:   Wed Feb 5 16:31:03 2025 -0800
+
+    Revert "conflit"
+    
+    This reverts commit a1ba131899f2f3b0da9d0df464254d65d25ef1eb.
+
+commit a1ba131899f2f3b0da9d0df464254d65d25ef1eb
+Author: Hang Bao <baohang873@gmail.com>
+Date:   Wed Feb 5 16:28:48 2025 -0800
+
+    conflit
+
+commit 2440b1bb9e649f87a78377d9b22b6df969c7ca6f
+Author: Steven Ariza-Arzate <131406132+SAR0804@users.noreply.github.com>
+Date:   Wed Feb 5 13:45:47 2025 -0800
+
+    Added a new line for merge conflict
+
+commit db1cf58b328807ca2bb781771ab41c7901f48712
+Author: Steven Ariza-Arzate <sarizaarz@gmail.com>
+Date:   Wed Feb 5 13:21:10 2025 -0800
+
+    Teammate forced merge conflict
+
+commit 74690ece5195594b3cfb1d5153442584ad7133b9
+Author: Hang Bao <baohang873@gmail.com>
+Date:   Fri Jan 31 11:31:15 2025 -0800
+
+    added git_log.txt and repo-location.txt
+
+commit 4d162d652fd49405ef444ef628b23c821bb504d6
+Merge: e3a7ad5 b0087cc
+Author: Hang Bao <baohang873@gmail.com>
+Date:   Fri Jan 31 11:26:16 2025 -0800
+
+    Resolve merge conflict
+
+commit b0087cccd947c49da9952ff474529f731caa1b50
+Author: Hang Bao <baohang873@gmail.com>
+Date:   Fri Jan 31 11:17:37 2025 -0800
+
+    Add the div describe my favorite game
+
+commit e3a7ad59ec8fb55df912463dce87716c50948d32
+Author: Hang Bao <baohang873@gmail.com>
+Date:   Fri Jan 31 11:13:49 2025 -0800
+
+    Add the div describe my favorite food
+
+commit 9bc6fb5063c85d400e32990d169c3cdd2bccb1c4
+Merge: 61f7953 319354e
+Author: Hang Bao <140673172+Just-ARandomGuy@users.noreply.github.com>
+Date:   Fri Jan 31 11:11:40 2025 -0800
+
+    Merge pull request #2 from Just-ARandomGuy/info-fill
+    
+    filled in blanks
+
+commit 319354e44710fc0a4875bd21396baa09834d823f
+Author: Hang Bao <baohang873@gmail.com>
+Date:   Fri Jan 31 11:10:24 2025 -0800
+
+    filled in blankl
+
+commit 61f7953fe74ea3a05ed4f904e9a9a3b37203c077
+Merge: 1d2bfc0 42aa691
+Author: Hang Bao <140673172+Just-ARandomGuy@users.noreply.github.com>
+Date:   Fri Jan 31 11:01:42 2025 -0800
+
+    Merge pull request #1 from Just-ARandomGuy/info-fill
+    
+    add the README.md and fill in the blanks in index.html
+
+commit 42aa691844bdb66920d3884b5999eb330f3b4285
+Author: Hang Bao <baohang873@gmail.com>
+Date:   Fri Jan 31 10:58:32 2025 -0800
+
+    add the README.md and fill in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
